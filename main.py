@@ -1,6 +1,6 @@
 def main():
     print "testowa klasa"
-    print "nowy tekst"
+    print "inny tekst"
     
 if __name__ == "__main__":
     main()
