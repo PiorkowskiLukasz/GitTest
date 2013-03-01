@@ -1,7 +1,8 @@
 def main():
     print "nie podam"
     print "Nowa linijka"
-    print ":D :P"
+    print "gowno co sie konfliktuje"
+    print ":( :("
     for x in range(5):
         print "jashdjah"
         print "Piotrek"
@@ -16,6 +17,8 @@ def main():
     print "szp: wtf?"
     print "mergetest"
     print "oooooooo"
+    print "oh god why"
+    print "omgwtfrotfllol"
 
 if __name__ == "__main__":
 print "asdf"
