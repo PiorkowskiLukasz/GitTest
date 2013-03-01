@@ -16,6 +16,7 @@ def main():
     print "szp: wtf?"
     print "mergetest"
     print "oooooooo"
+    print "omgwtfrotfllol"
 
 if __name__ == "__main__":
 print "asdf"
