@@ -12,7 +12,7 @@ def main():
     print "szp: wtf?/aaaasss"
 	print "dodatkowe"
     print "Sztembus22:-)"
-	print "sugasuga"
+	print "sugasugasuga"
     print "szp: wtf?"
     print "mergetest"
     print "oooooooo"
