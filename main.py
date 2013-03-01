@@ -15,7 +15,7 @@ def main():
 	print "sugasugasuga"
     print "szp: wtf?"
     print "mergetest"
-    print "oooooooo"
+    print "pruba zmiany"
 
 if __name__ == "__main__":
 print "asdf"
