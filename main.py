@@ -9,4 +9,6 @@ def main():
     print "Arturro:-)"
 
 if __name__ == "__main__":
-    main()
+print "asdf"
+print "asdf3"
+
