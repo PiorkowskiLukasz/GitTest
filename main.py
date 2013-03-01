@@ -6,6 +6,7 @@ def main():
         print 'linijka', x
     print "inny tekst"
     print "szp: wtf?/aaaasss"
+    print "Arturro:-)"
 
 if __name__ == "__main__":
     main()
