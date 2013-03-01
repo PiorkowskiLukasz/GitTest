@@ -21,6 +21,10 @@ def main():
     print "oh god why"
     print "omgwtfrotfllol"
 
+
+
+    print "DK"
+
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
