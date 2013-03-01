@@ -4,7 +4,7 @@ def main():
     for x in range(5):
         print "minka"
         print 'linijka', x
-    print "inny tekst"
+    print "inny tekst na faze"
     print "szp: wtf?/aaaasss"
     print "Arturro:-)"
 
