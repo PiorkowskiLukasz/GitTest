@@ -11,7 +11,7 @@ def main():
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
 	print "dodatkowe"
-    print "Sztembus:-)"
+    print "Sztembus2:-)"
 	print "sugasuga"
     print "szp: wtf?"
     print "mergetest"
