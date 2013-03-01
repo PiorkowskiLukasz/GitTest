@@ -16,8 +16,9 @@ def main():...
 =======
 >>>>>>> d2fefc9560ca0cb4e7e19d766b0e4f50ea6a4218
     print "Nowa linijka"
-	print "Kurkaa lubi placki i cycki"
+	print "Kuraa lubi placki "
     print "Kura rzadzi i tyle"
+	print "KUuuuuuuuura"
     print "costam"
     print "nowe"
 	print "qqqqqqqqqqqqqq"
