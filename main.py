@@ -3,6 +3,7 @@ def main():
     print ":D :P"
     for x in range(5):
         print "jashdjah"
+        print "Piotrek"
         print 'linijka', x
     print "inny tekst"
     print "szp: wtf?/aaaasss"
