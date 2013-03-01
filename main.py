@@ -2,6 +2,7 @@
 def main():
     print "nie podam"
     print "aaaaaaaa"
+    print "Nbnhbhjbjh"
     print "aaaaaaaafghfg"
     print "Pytoo rzadzi i tyle"
     print ":( :("
