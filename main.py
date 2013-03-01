@@ -2,6 +2,7 @@ def main():
     print "nie podam"
     print "Nowa linijka"
     print "gowno co sie konfliktuje"
+    print ":( :("
     for x in range(5):
         print "jashdjah"
         print "Piotrek"
