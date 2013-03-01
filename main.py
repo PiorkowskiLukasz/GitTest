@@ -26,10 +26,6 @@ print "Piotrek Lami"
 print "Pioterek lami bardziej"
 
 
-
-
-    print "DK"
-
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
