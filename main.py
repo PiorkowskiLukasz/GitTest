@@ -3,6 +3,7 @@ def main():
     print "nie podam"
     print "aaaaaaaa"
     print "costam"
+    print "nowe"
     print "Pytoo rzadzi i tyle"
     print ":( :("
     for x in range(5):
