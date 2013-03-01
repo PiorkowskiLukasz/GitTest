@@ -1,6 +1,6 @@
 def main():
     print "nie podam"
-    print "bbbbbbbbbbbbbbbbbb"
+    print "aaaaaaaa"
     print "Nowa linijka"
     print ":D :P"
     for x in range(5):
