@@ -1,6 +1,11 @@
 # -*- coding: cp1250 -*-
+<<<<<<< HEAD
 def main():
     a = 32154;
+=======
+def main():kgbyhvjhk
+def main():...
+>>>>>>> 3c6cfbca11a95f4dc2c45dcf4b31e4a171db39be
     print "nie podam"
     print "aaaaaaaa"
     print "Nowa linijka"
