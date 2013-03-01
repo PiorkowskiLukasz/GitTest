@@ -1,6 +1,16 @@
 # -*- coding: cp1250 -*-
+<<<<<<< HEAD
+<<<<<<< HEAD
+def main():
+    a = 32154;
+=======
 def main():kgbyhvjhk
 def main():...
+>>>>>>> 3c6cfbca11a95f4dc2c45dcf4b31e4a171db39be
+=======
+def main():kgbyhvjhk
+def main():...
+>>>>>>> b0f56a4486bc910450e428e7566b379fb5a68985
     print "nie podam"
     print "aaaaaaaa"
 <<<<<<< HEAD
