@@ -4,8 +4,8 @@ def main():
     for x in range(5):
         print "minka"
         print 'linijka', x
-    print "inny tekst"
-    print "szp: wtf?/aaaasss"
+    print "moj tekst"
+    print "co to k... ma byæ:)"
     print "Arturro:-)"
 
 if __name__ == "__main__":
