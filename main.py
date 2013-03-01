@@ -2,7 +2,7 @@ def main():
     print "testowa klasa"
     for x in range(5):
         print 'linijka', x
-    print "inny tekst"
+    print "hmm hmm"
     print "szp: wtf?"
     
 if __name__ == "__main__":
