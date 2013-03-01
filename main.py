@@ -3,7 +3,7 @@ def main():
     for x in range(5):
         print 'linijka', x
     print "inny tekst"
-    print "szp: wtf?/aaaa"
+    print "szp: wtf?/aaaass"
 
 if __name__ == "__main__":
     main()
