@@ -1,5 +1,6 @@
 def main():
-    print "testowa klasa"
+    print "nie podam"
+    print "Nowa linijka"
     print ":D :P"
     for x in range(5):
         print "jashdjah"
@@ -15,4 +16,8 @@ def main():
     print "oooooooo"
 
 if __name__ == "__main__":
-    main()
+print "asdf"
+print "asdf3"
+print "Piotrek Lami"
+print "Pioterek lami bardziej"
+
