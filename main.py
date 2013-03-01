@@ -1,5 +1,5 @@
 # -*- coding: cp1250 -*-
-def main():
+def main():kgbyhvjhk
     print "nie podam"
     print "aaaaaaaa"
     print "Nowa linijka"
