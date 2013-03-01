@@ -1,5 +1,6 @@
 # -*- coding: cp1250 -*-
 def main():
+    a = 32154;
     print "nie podam"
     print "aaaaaaaa"
     print "Nowa linijka"
