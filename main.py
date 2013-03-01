@@ -4,6 +4,8 @@ def main():
         print 'linijka', x
     print "inny tekst"
     print "szp: wtf?"
+    print "mergetest"
+    print "oooooooo"
     
 if __name__ == "__main__":
     main()
