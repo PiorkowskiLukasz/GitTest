@@ -17,7 +17,7 @@ def main():
     print "Sztembus22:-)"
 	print "sugasugasuga"
     print "szp: wtf?"
-    print "mergetest"
+    print "kolo"
     print "oooooooo"
 	print "yolo"
     print "omgwtfrotfllol"
