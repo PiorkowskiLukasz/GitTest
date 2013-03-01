@@ -19,7 +19,7 @@ def main():
     print "szp: wtf?"
     print "mergetest"
     print "oooooooo"
-	print "yolo"
+	print "asdasdasdsad"
     print "omgwtfrotfllol"
 
 
