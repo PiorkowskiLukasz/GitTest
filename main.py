@@ -17,6 +17,7 @@ def main():
     print "mergetest"
     print "oooooooo"
     print "oh god why"
+    print "omgwtfrotfllol"
 
 if __name__ == "__main__":
 print "asdf"
