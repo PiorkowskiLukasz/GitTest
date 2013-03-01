@@ -5,7 +5,8 @@ def main():
     print "qqqqqqqqqqqqqq"
     print "qwertyuioop"
     print "Pytoo rzadzi i tyle"
-    print ":( :("
+    print ":( -.-"
+    print "dfgadfga"
     for x in range(5):
         print "jashdjah"
         print "Piotrek"
