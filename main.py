@@ -2,7 +2,7 @@
 def main():
     print "nie podam"
     print "aaaaaaaa"
-    print "Nowa linijka"
+    print "qwertyuioop"
     print "Pytoo rzadzi i tyle"
     print ":( :("
     for x in range(5):
@@ -13,14 +13,6 @@ def main():
     print "qwerty300000000"
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
-	print "dodatkowe"
-    print "Sztembus22:-)"
-	print "sugasugasuga"
-    print "szp: wtf?"
-    print "mergetest"
-    print "oooooooo"
-	print "yolo"
-    print "omgwtfrotfllol"
 
 
 
