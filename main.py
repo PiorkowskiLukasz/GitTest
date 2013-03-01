@@ -2,11 +2,6 @@ def main():
     print "nie podam"
     print "Nowa linijka"
     print ":D :P"
-<<<<<<< HEAD
-	print "jaoisdj "
-=======
-
->>>>>>> mybranchjea
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
