@@ -1,7 +1,8 @@
+# -*- coding: cp1250 -*-
 def main():
     print "nie podam"
     print "Nowa linijka"
-    print "gowno co sie konfliktuje"
+    print "Pytoo rzadzi"
     print ":( :("
     for x in range(5):
         print "jashdjah"
@@ -9,7 +10,7 @@ def main():
         print 'linijka', x
     print "inny tekst"
     print "qwerty300000000"
-    print "ArturroBLABLA:-)"
+    print "Arturro:-)"
     print "szp: wtf?/aaaasss"
 	print "dodatkowe"
     print "Sztembus22:-)"
