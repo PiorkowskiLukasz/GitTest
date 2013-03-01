@@ -1,8 +1,22 @@
 # -*- coding: cp1250 -*-
+<<<<<<< HEAD
+<<<<<<< HEAD
+def main():
+    a = 32154;
+=======
 def main():kgbyhvjhk
 def main():...
+>>>>>>> 3c6cfbca11a95f4dc2c45dcf4b31e4a171db39be
+=======
+def main():kgbyhvjhk
+def main():...
+>>>>>>> b0f56a4486bc910450e428e7566b379fb5a68985
     print "nie podam"
     print "aaaaaaaa"
+<<<<<<< HEAD
+    print "Nowa linijka"
+    print "Kura rzadzi i tyle"
+=======
 <<<<<<< HEAD
     print "costam"
     print "nowe"
@@ -11,6 +25,7 @@ def main():...
     print "qwertyuioop"
 >>>>>>> e65f9c8c5606db79144fa0ca43766e69ce289084
     print "Pytoo rzadzi i tyle"
+>>>>>>> b0f56a4486bc910450e428e7566b379fb5a68985
     print ":( -.-"
     print "dfgadfga"
     for x in range(5):
