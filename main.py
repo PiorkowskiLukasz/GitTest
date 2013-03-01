@@ -1,7 +1,7 @@
 def main():
     print "testowa klasa"
     print "inny tekst"
-	print "jestem bogiem"
+	print "hello and die"
     
 if __name__ == "__main__":
     main()
