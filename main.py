@@ -5,7 +5,7 @@ def main():
         print "minka"
         print 'linijka', x
     print "inny tekst"
-    print "szp: wtf?/aaaasss"
+    print "sztemb amator"
     print "Arturro:-)"
 
 if __name__ == "__main__":
