@@ -1,3 +1,3 @@
 GitTest
 =======
-Co to jest??
+Kto zak³ada nowe repo? ;)
