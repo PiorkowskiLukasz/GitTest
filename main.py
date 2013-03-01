@@ -17,6 +17,10 @@ def main():
     print "mergetest"
     print "oooooooo"
 
+
+
+    print "DK"
+
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
