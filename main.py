@@ -5,7 +5,8 @@ def main():
     print "costam"
     print "nowe"
     print "Pytoo rzadzi i tyle"
-    print ":( :("
+    print ":( -.-"
+    print "dfgadfga"
     for x in range(5):
         print "jashdjah"
         print "Piotrek"
@@ -22,10 +23,6 @@ def main():
     print "oooooooo"
 	print "yolo"
     print "omgwtfrotfllol"
-
-
-
-    print "DK"
 
 if __name__ == "__main__":
 print "asdf"
