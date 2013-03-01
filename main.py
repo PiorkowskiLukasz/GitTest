@@ -1,7 +1,7 @@
 def main():
     print "testowa klasa"
     print "mergetest"
-    print "master"
+    print "oooooooo"
     
 if __name__ == "__main__":
     main()
