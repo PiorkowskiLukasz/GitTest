@@ -8,7 +8,7 @@ def main():
         print 'linijka', x
     print "inny tekst"
     print "qwerty300000000"
-    print "Arturro:-)"
+    print "ArturroBLABLA:-)"
     print "szp: wtf?/aaaasss"
 	print "dodatkowe"
     print "Sztembus22:-)"
