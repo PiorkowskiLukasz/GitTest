@@ -11,5 +11,6 @@ def main():
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
+print "Piotrek Lami"
 print "Pioterek lami bardziej"
 
