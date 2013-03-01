@@ -1,9 +1,21 @@
 # -*- coding: cp1250 -*-
-def main():
+def main():kgbyhvjhk
+def main():...
     print "nie podam"
     print "aaaaaaaa"
+<<<<<<< HEAD
     print "Nowa linijka"
     print "Kura rzadzi i tyle"
+=======
+<<<<<<< HEAD
+    print "costam"
+    print "nowe"
+=======
+    print "qqqqqqqqqqqqqq"
+    print "qwertyuioop"
+>>>>>>> e65f9c8c5606db79144fa0ca43766e69ce289084
+    print "Pytoo rzadzi i tyle"
+>>>>>>> b0f56a4486bc910450e428e7566b379fb5a68985
     print ":( -.-"
     print "dfgadfga"
     for x in range(5):
@@ -14,14 +26,26 @@ def main():
     print "qwerty300000000"
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
+<<<<<<< HEAD
+
+
+
+    print "DK"
+
+if __name__ == "__main__":
+print "asdf"
+print "asdf3"
+print "Piotrek Lami"
+print "Pioterek lami bardziej"
+
+=======
 	print "dodatkowe"
     print "Sztembus22:-)"
 	print "sugasugasuga"
     print "szp: wtf?"
-    print "mergetest"
-    print "oooooooo"
-	print "yolo"
-    print "omgwtfrotfllol"
+
+    print "Pierdoly tez!"
+>>>>>>> 698c73078181d1be4febd4c6448764884c9748fb
 
 if __name__ == "__main__":
 print "asdf"
