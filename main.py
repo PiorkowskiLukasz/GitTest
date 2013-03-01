@@ -1,6 +1,6 @@
 def main():
     print "testowa klasa"
-    print ":D"
+    print ":D :P"
     print "inny tekst"
     print "szp: wtf?"
     
