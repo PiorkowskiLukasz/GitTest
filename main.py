@@ -1,5 +1,5 @@
 def main():
-    print "testowa klasa"
+    print "Nowa linijka"
     print ":D :P"
     for x in range(5):
         print "minka"
