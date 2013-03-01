@@ -3,7 +3,7 @@ def main():
     print "nie podam"
     print "aaaaaaaa"
     print "Nowa linijka"
-    print "Pytoo rzadzi i tyle"
+    print "Kura rzadzi i tyle"
     print ":( -.-"
     print "dfgadfga"
     for x in range(5):
