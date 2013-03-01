@@ -2,7 +2,8 @@ def main():
     print "testowa klasa"
     print ":D :P"
     for x in range(5):
-        print "minka"
+        print "jashdjah"
+        print "Piotrek"
         print 'linijka', x
     print "inny tekst"
     print "szp: wtf?"
