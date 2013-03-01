@@ -1,5 +1,5 @@
 def main():
-    print "testowa klasa"
+    print "siajabajajaja"
     print "inny tekst"
     
 if __name__ == "__main__":
