@@ -2,7 +2,7 @@
 def main():
     print "nie podam"
     print "aaaaaaaa"
-    print "Nowa linijka"
+    print "costam"
     print "Pytoo rzadzi i tyle"
     print ":( :("
     for x in range(5):
