@@ -1,5 +1,6 @@
 # -*- coding: cp1250 -*-
-def main():
+def main():kgbyhvjhk
+def main():...
     print "nie podam"
     print "aaaaaaaa"
     print "costam"
@@ -19,10 +20,8 @@ def main():
     print "Sztembus22:-)"
 	print "sugasugasuga"
     print "szp: wtf?"
-    print "mergetest"
-    print "oooooooo"
-	print "yolo"
-    print "omgwtfrotfllol"
+
+    print "Pierdoly tez!"
 
 if __name__ == "__main__":
 print "asdf"
