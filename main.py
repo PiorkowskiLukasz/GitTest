@@ -1,12 +1,12 @@
 def main():
-    print "nie testowa klasa"
+    print "testowa klasa"
     print ":D :P"
     for x in range(5):
         print "minka"
         print 'linijka', x
     print "inny tekst"
     print "szp: wtf?/aaaasss"
-    print "Arturro:-)"
+    print "Sztembuss:-)"
 
 if __name__ == "__main__":
 print "asdf"
