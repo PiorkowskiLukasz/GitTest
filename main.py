@@ -4,7 +4,7 @@ def main():...
     print "dfgadfga"
     for x in range(5):
         print "jashdjah"
-        print "Piotrek"
+        print "Piotreki"
         print 'linijka', x
     print "inny tekst"
     print "qwerty300000000"
