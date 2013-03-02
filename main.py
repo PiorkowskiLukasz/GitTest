@@ -6,8 +6,13 @@ def main():...
         print "jashdjah"
         print "Piotrek"
         print 'linijka', x
+<<<<<<< HEAD
     print "inny tekscior"
     print "qwerty300000000"
+=======
+    print "inny tekst"
+    print "qwerty4444444444444444444"
+>>>>>>> 6c131f52a25f03ad6498bb0960ee72a28be7b9d6
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
     print "DK"
