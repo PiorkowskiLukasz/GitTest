@@ -14,6 +14,6 @@ def main():...
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
-print "Piothhhrek Lami bardziej niz inni xD"
+print "Piofhfgfffjjhthhhrek Lami bardziej niz inni xD"
 print "Piotehhhrek lami"
 
