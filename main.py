@@ -7,7 +7,7 @@ def main():...
         print "Piotrek"
         print 'linijka', x
     print "inny tekst"
-    print "qwerty300000000"
+    print "costam"
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
     print "DK"
