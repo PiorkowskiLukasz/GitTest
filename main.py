@@ -7,8 +7,9 @@ def main():...
         print "Piotrek"
         print 'linijka', x
     print "inny tekst"
-    print "qwerty30000000043333333333333444444"
-    print "Arturro:-)"
+<<<<<<< .mine    print "qwerty30000000043333333333333444444"
+=======    print "qwerty3000000004455555555555555544444"
+>>>>>>> .theirs    print "Arturro:-)"
     print "szp: wtf?/aaaasss"
     print "DK"
 if __name__ == "__main__":

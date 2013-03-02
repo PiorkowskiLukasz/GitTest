@@ -1,38 +1,23 @@
 # -*- coding: cp1250 -*-
-def main():
+def main():...
     print "nie podam"
-    print "aaaaaaaa"
-    print "Nowa linijka"
-    print "Pytoo rzadzi i tyle"
-    print ":( :("
+    print "dfgadfga"
     for x in range(5):
         print "jashdjah"
         print "Piotrek"
         print 'linijka', x
     print "inny tekst"
-    print "qwerty300000000"
+<<<<<<< HEAD
+    print "qwerty30000000043333333333333444444"
+=======
+    print "qwerty3000000004455555555555555544444"
+>>>>>>> zmiana
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
-	print "dodatkowe"
-    print "Sztembus22:-)"
-	print "sugasugasuga"
-    print "szp: wtf?"
-    print "mergetest"
-    print "oooooooo"
-	print "yolo"
-    print "omgwtfrotfllol"
-
-
-
     print "DK"
-
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
 print "Piotrek Lami"
-<<<<<<< HEAD
-print "Pioterek lami bardziej niz zwykle"
-=======
 print "Pioterek lami bardziej jak zawsze"
->>>>>>> master
 
