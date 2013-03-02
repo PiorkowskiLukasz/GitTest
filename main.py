@@ -6,7 +6,7 @@ def main():...
         print "jashdjah"
         print "Piotrek"
         print 'linijka', x
-    print "inny tekst"
+    print "inny tekscior"
     print "qwerty300000000"
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
