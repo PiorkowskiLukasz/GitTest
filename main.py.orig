@@ -8,10 +8,10 @@ def main():...
         print 'linijka', x
     print "inny tekst"
 <<<<<<< HEAD
-    print "qwerty666"
+    print "qwerty99999999999999999"
 =======
-    print "qwerty555"
->>>>>>> staniszewski
+    print "qwerty4444444444444444444"
+>>>>>>> 6c131f52a25f03ad6498bb0960ee72a28be7b9d6
     print "Arturro:-)"
     print "szp: wtf?/aaaasss"
     print "DK"
