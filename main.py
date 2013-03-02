@@ -7,13 +7,13 @@ def main():...
         print "Piotrek"
         print 'linijka', x
     print "inny tekst"
-    print "qwerthhhy4444444444444444444"
+    print "qwerthhhy444469696969696969444444"
     print "Arturro:-)"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
-print "Piofhfgfffjjhthhhrek Lami bardziej niz inni xD"
+print "Piofhfgfff6969699jjhthhhrek Lami bardziej niz inni xD"
 print "Piotehhhrek lami"
 
