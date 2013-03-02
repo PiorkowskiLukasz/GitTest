@@ -9,7 +9,7 @@ def main():...
     print "inny tekst"
     print "qwerthhhy4444444444444444444"
     print "Arturro:-)"
-    print "szp: wtf?/aaaasss"
+    print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
 print "asdf"
