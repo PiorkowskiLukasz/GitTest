@@ -16,17 +16,21 @@ def main():...
 =======
     print "inny tekst"
 <<<<<<< HEAD
+    print "qwerthhhy444469696969696969444444"
+=======
+<<<<<<< HEAD
     print "qwerty4444444444444444444"
 >>>>>>> 6c131f52a25f03ad6498bb0960ee72a28be7b9d6
 =======
     print "qwerthhhy4444444444444444444"
 >>>>>>> de9846f891dab22232a2bdc0c022a8dfb9cbfa78
+>>>>>>> e87fd92a1089ca4170b337ffa9a82c831c5feb9b
     print "Arturro:-)"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
-print "Piofhfgfffjjhthhhrek Lami bardziej niz inni xD"
+print "Piofhfgfff6969699jjhthhhrek Lami bardziej niz inni xD"
 print "Piotehhhrek lami"
 
