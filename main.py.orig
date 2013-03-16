@@ -4,10 +4,15 @@ def main():...
     print "dfgadfga"
 <<<<<<< HEAD
     print "cos tam)"
+    print "nie podam b!"
 =======
-    print "xyz"
+<<<<<<< .mine    print "xyz"
 >>>>>>> test
-    print "szp: wtf?/aaaaxxx"
+=======    print "nie podam a"
+>>>>>>> zad1
+    print "dfgadfga"
+    print "Arturro:-)"
+>>>>>>> .theirs    print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
 print "asdf"

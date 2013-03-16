@@ -1,9 +1,12 @@
 # -*- coding: cp1250 -*-
 def main():...
-    print "nie podam"
+    print "nie podam b!"
+    print "nie podam a"
     print "dfgadfga"
     print "cos tam)"
     print "xyz"
+    print "qwerty"
+    print "abcd"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
