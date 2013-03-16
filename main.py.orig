@@ -5,9 +5,11 @@ def main():...
 <<<<<<< HEAD
     print "megger1"
 =======
-    print "megger"
+<<<<<<< .mine    print "megger"
 >>>>>>> megger
-    print "szp: wtf?/aaaaxxx"
+=======    print "abcd"
+>>>>>>> test1
+>>>>>>> .theirs    print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
 print "asdf"
