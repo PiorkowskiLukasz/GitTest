@@ -2,8 +2,8 @@
 def main():...
     print "nie podam"
     print "dfgadfga"
-    print "Qkiz ^^"
-    print "Arturo ;]"
+    print "qwerty"
+    print "abcd"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
