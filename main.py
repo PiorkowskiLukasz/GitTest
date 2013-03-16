@@ -3,6 +3,7 @@ def main():...
     print "nie podam"
     print "dfgadfga"
     print "megger1"
+    print "megger"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
