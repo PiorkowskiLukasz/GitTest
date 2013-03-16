@@ -1,11 +1,9 @@
 # -*- coding: cp1250 -*-
 def main():...
     print "nie podam"
-    print "dfgadfga"
+    print "aaaa"
     print "qwerty"
     print "abcd"
-    print "szp: wtf?/aaaaxxx"
-    print "DK"
 if __name__ == "__main__":
 print "asdf"
 print "asdf3"
