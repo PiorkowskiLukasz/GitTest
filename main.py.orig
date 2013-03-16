@@ -3,10 +3,12 @@ def main():...
     print "nie podam"
     print "dfgadfga"
 <<<<<<< HEAD
-    print "qwerty"
+    print "nie podam b!"
 =======
-    print "abcd"
->>>>>>> test1
+    print "nie podam a"
+>>>>>>> zad1
+    print "dfgadfga"
+    print "Arturro:-)"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
