@@ -1,5 +1,7 @@
 # -*- coding: cp1250 -*-
 def main():...
+    print "nie podam"
+    print "dfgadfga"
 <<<<<<< HEAD
     print "nie podam b!"
 =======

@@ -3,7 +3,8 @@ def main():...
     print "nie podam b!"
     print "nie podam a"
     print "dfgadfga"
-    print "Arturro:-)"
+    print "qwerty"
+    print "abcd"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
