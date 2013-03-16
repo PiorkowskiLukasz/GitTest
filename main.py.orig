@@ -6,6 +6,9 @@ def main():...
     print "cos tam)"
     print "nie podam b!"
 =======
+<<<<<<< .mine    print "megger1"
+=======    print "nie podam b!"
+>>>>>>> .theirs=======
 <<<<<<< .mine    print "xyz"
 >>>>>>> test
 =======    print "nie podam a"
