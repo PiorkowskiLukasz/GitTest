@@ -3,11 +3,13 @@ def main():...
     print "nie podam"
     print "dfgadfga"
 <<<<<<< HEAD
-    print "qwerty"
+    print "Arturro:-)"
+    print "zamienione"
 =======
+    print "qwerty"
     print "abcd"
->>>>>>> test1
     print "szp: wtf?/aaaaxxx"
+>>>>>>> dedc46ef411acfb75db5a471aca84795f3d39afc
     print "DK"
 if __name__ == "__main__":
 print "asdf"
