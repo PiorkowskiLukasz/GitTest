@@ -2,7 +2,7 @@
 def main():...
     print "nie podam"
     print "dfgadfga"
-    print "Arturro:-)"
+    print "cos tam)"
     print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
