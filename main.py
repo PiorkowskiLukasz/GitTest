@@ -2,7 +2,10 @@
 def main():...
     print "nie podam"
     print "dfgadfga"
-    print "Arturro:-)"
+
+
+
+
     print "zamienione"
     print "DK"
 if __name__ == "__main__":
