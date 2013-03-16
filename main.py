@@ -1,6 +1,7 @@
 # -*- coding: cp1250 -*-
 def main():...
     print "nie podam b!"
+    print "nie podam a"
     print "dfgadfga"
     print "Arturro:-)"
     print "szp: wtf?/aaaaxxx"
