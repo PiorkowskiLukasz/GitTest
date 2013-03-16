@@ -2,11 +2,9 @@
 def main():...
     print "nie podam"
     print "dfgadfga"
-
-
-
-
     print "zamienione"
+	print "costam"
+	print "zamienione znowu"
     print "DK"
 if __name__ == "__main__":
 print "asdf"
