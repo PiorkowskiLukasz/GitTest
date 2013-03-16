@@ -3,12 +3,13 @@ def main():...
     print "nie podam"
     print "dfgadfga"
 <<<<<<< HEAD
-    print "megger1"
-=======
-<<<<<<< .mine    print "megger"
->>>>>>> megger
-=======    print "abcd"
->>>>>>> test1
+<<<<<<< .mine    print "megger1"
+=======    print "nie podam b!"
+>>>>>>> .theirs=======
+    print "nie podam a"
+>>>>>>> zad1
+    print "dfgadfga"
+    print "Arturro:-)"
 >>>>>>> .theirs    print "szp: wtf?/aaaaxxx"
     print "DK"
 if __name__ == "__main__":
