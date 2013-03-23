@@ -1,5 +1,6 @@
 # -*- coding: cp1250 -*-
 def main():...
+    costam = 0
     print "nie podam b!"
     print "nie podam a"
     print "aaaa"
